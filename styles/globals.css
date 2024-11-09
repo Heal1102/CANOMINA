@@ -14,6 +14,8 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  
+
 }
 
 body {
@@ -22,6 +24,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to right top, #2d0036,#4f015b,#730283, #9a02ac, #c400c7);
+  height:100vh;
+  width: 100vw;
+  overflow-x: hidden;
 }
 
 * {
